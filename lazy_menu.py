@@ -1,6 +1,8 @@
 import dmenu
 import os
-path = "/home/plato/Documents"
+#replace with your own username
+home_dir="/home/user"
+path = home_dir+"/Documents"
 file = "p"
 results = []
 options = []
